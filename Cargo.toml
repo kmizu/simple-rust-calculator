@@ -1,5 +1,5 @@
 [package]
-name = "simple-math"
+name = "simple-rust-calculator"
 version = "0.1.0"
 edition = "2021"
 
